@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIDemo", "WebAPIDemo\WebAPIDemo.csproj", "{8F11949A-FC41-48F5-877B-D7C237A32CA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleContactForm", "SimpleContactForm\SimpleContactForm.csproj", "{8A87A56A-DF1B-4058-BCC7-A74ED9160414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F11949A-FC41-48F5-877B-D7C237A32CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F11949A-FC41-48F5-877B-D7C237A32CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F11949A-FC41-48F5-877B-D7C237A32CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F11949A-FC41-48F5-877B-D7C237A32CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A87A56A-DF1B-4058-BCC7-A74ED9160414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A87A56A-DF1B-4058-BCC7-A74ED9160414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A87A56A-DF1B-4058-BCC7-A74ED9160414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A87A56A-DF1B-4058-BCC7-A74ED9160414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
